@@ -1,0 +1,102 @@
+button{
+    background-color: black;
+    border-radius: 200px;
+    height: 30px;
+    width:200px;
+    border:none;
+
+
+
+}
+
+.pick{
+
+    color: white;
+    font-family: Arial;
+    font-weight: bolder;
+    padding-left: 20px;
+}
+
+
+.title{
+
+    font-size: 70px;
+    font-weight: bolder;
+    font-family: Arial;
+    padding-left:240px;
+    color:white;
+    border-top: 0px;
+    
+
+}
+    
+
+
+div{
+
+    padding-left: 250px;
+    padding-top:0px;
+    
+}
+
+body{
+    background-color:black;
+}
+
+.current-winner{
+
+    color:whitesmoke;
+    font-family: Arial;
+    font-weight: bolder;
+}
+
+.wins{
+    color:whitesmoke;
+    font-family: Arial;
+    font-weight: bolder;
+}
+
+.rock{
+
+    height: 150px;
+    border-radius: 500px;
+    border-color: white;
+}
+
+.paper{
+
+    height: 150px;
+}
+
+.scissor{
+
+    height: 150px;
+}
+
+
+
+
+.reset{
+    background-color: aqua;
+    border-bottom: 100px;
+    position:absolute; left:870px; top:330px;
+
+}
+
+.score-updater{
+
+
+    position:absolute; top:500px;
+
+
+}
+
+.user{
+
+    height: 140px;
+}
+
+.computer{
+
+    height:140px;
+}
