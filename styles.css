@@ -100,3 +100,52 @@ body{
 
     height:140px;
 }
+
+@media screen and (max-width: 600px){
+
+    .title{
+
+        font-size:20px;
+        width:400px;
+        text-align: center;
+        padding-left: 0px;
+    }
+
+    .rock{
+
+        height:100px;
+        position:absolute; left:280px; top:160px;
+    }
+
+    .paper{
+        height:100px;
+        position:absolute; left:160px; top:160px;
+    }
+
+    .scissor{
+
+        height:100px;
+        position:absolute; left:40px; top:160px;
+
+    }
+
+    .score-updater{
+
+
+        position:absolute; top:500px; left:0px;
+        padding-left: 20px;
+        width:300px;
+        padding-top:0px;
+    
+    
+    }
+
+    .reset{
+
+        position:absolute; left:100px; top:330px;
+
+
+    }
+
+
+}
