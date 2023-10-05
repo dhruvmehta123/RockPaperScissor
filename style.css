@@ -1,0 +1,28 @@
+button{
+    background-color: aqua;
+    border-radius: 200px;
+    height: 30px;
+    width:200px;
+    border:none;
+
+}
+
+
+.title{
+
+    font-size: 70px;
+    font-weight: bolder;
+    font-family: Arial;
+    padding-left:240px;
+
+}
+    
+
+
+div{
+
+    padding-left: 150px;
+    padding-top:0px;
+    
+}
+
